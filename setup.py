@@ -40,6 +40,8 @@ setup(
     'listener = BB_lab1_pkg.listener:main',
     'even_pub = BB_lab1_pkg.even_number_publisher:main',
     'overflow_listener = BB_lab1_pkg.overflow_listener:main',
+    'dist_sens = BB_lab1_pkg.distance_sensor:main',
+    'dist_monitor = BB_lab1_pkg.distance_monitor:main'
     ],
     },
 )
